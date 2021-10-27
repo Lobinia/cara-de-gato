@@ -1,3 +1,7 @@
 This is a basic HTML, CSS and JavaScript project template to display and practice.
 
-It's pastel pink and cat themed short home page for a slipper, mug and custom t-shirts store.
+Semantic HTML present.
+
+Fully Flexbox based, and is very responsible and editable, the layout will not break easily.
+
+It's a pastel pink and cat themed short home page for a slipper, mug and custom t-shirts store.
