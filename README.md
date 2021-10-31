@@ -1,3 +1,8 @@
+<p align="center">
+    <img width="480" src="assets/images/preview.png">
+</p>
+
+## Description
 This is a basic HTML, CSS and JavaScript project template to display and practice.
 
 Semantic HTML present.
